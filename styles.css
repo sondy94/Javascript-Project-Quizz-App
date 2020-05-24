@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header-title {
+	text-align: center;
+	color: blue;
+}
+
+/*result section*/
+.result-section {
+	
+	text-align: center;
+	background-color: lightgrey;
+	padding: 20px;
+}
+
+span {
+	color: blue;
+	font-weight: 700;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+
+.quiz-section {
+	background-color: blue;
+	color: white;
+	padding-bottom: 30px;
+}
+
+.quiz-title {
+	padding: 30px;
+	margin-top: 20px;
+
+
+}
+
+.quiz-question01, .quiz-question02, .quiz-question03, .quiz-question04, .submit {
+	margin-bottom: 40px;
+	margin-left: 10px;
+
+}
